@@ -73,7 +73,7 @@ public class FullFlow{
 	public void launchApplication() throws Exception {
 
 		try {
-			
+			;
 			homePage = new HomePage(driver);
 			
 
